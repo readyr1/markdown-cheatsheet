@@ -1,8 +1,8 @@
 # markdown-cheatsheet
   # Header
-  # This is an <h1> h1 tag
-  ## This is an <h2> h2 tag
-  ###### This is an <h6> h6 tag
+  # This is an ``<h1>`` tag
+  ## This is an ``<h2>`` tag
+  ###### This is an ``<h6>`` tag
 
   LISTS
  UNORDERED
