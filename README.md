@@ -1,23 +1,22 @@
 # markdown-cheatsheet
-
-  Headers
- # This is an <h1> tag
- ## This is an <h2> tag
- ###### This is an <h6> tag
+  # Header
+  # This is an <h1> h1 tag
+  ## This is an <h2> h2 tag
+  ###### This is an <h6> h6 tag
 
   LISTS
  UNORDERED
-* Item 1
-* Item 2
- * Item 2a
- * Item 2b
+* Item 1.  
+* Item 2.  
+ * Item 2a.  
+ * Item 2b.  
  
- ORDERED
-1. Item 1
-2. Item 2
-3. Item 3
- * Item 3a
- * Item 3b
+ ORDERED.  
+1. Item 1.   
+2. Item 2.  
+3. Item 3.  
+ * Item 3a.  
+ * Item 3b.  
 
 BLOCKQUOTES
 As Grace Hopper said:
