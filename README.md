@@ -36,7 +36,6 @@ supported
 - [x] list syntax required (any 
 unordered or ordered list supported)
 
-![https://images.alphacoders.com/789/thumb-350-789452.jpg]
- 
+ ![image](https://images.alphacoders.com/789/thumb-350-789452.jpg)
 
 
